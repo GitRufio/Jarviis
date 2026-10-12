@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.jarvis.models.ModelRouterTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s -- in pl.jarvis.models.ModelRouterTest

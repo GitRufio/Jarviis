@@ -1,0 +1,9 @@
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/agents/AgentRouterTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/agents/CodingAgentTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/agents/LlmAgentRouterTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/core/JarvisCoreIntegrationTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/models/ModelDiscoveryTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/models/ModelRouterTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/security/PermissionManagerTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/tools/FileToolTest.java
+/home/rafal/AI-Projects/Jarvis/src/test/java/pl/jarvis/tools/ToolManagerTest.java

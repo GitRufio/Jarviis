@@ -1,0 +1,15 @@
+pl/jarvis/agents/LlmAgentRouterTest$1.class
+pl/jarvis/agents/CodingAgentTest.class
+pl/jarvis/core/JarvisCoreIntegrationTest$3.class
+pl/jarvis/models/ModelRouterTest.class
+pl/jarvis/agents/AgentRouterTest.class
+pl/jarvis/tools/ToolManagerTest.class
+pl/jarvis/tools/ToolManagerTest$1.class
+pl/jarvis/agents/LlmAgentRouterTest.class
+pl/jarvis/security/PermissionManagerTest.class
+pl/jarvis/core/JarvisCoreIntegrationTest.class
+pl/jarvis/agents/CodingAgentTest$RecordingProvider.class
+pl/jarvis/core/JarvisCoreIntegrationTest$1.class
+pl/jarvis/tools/FileToolTest.class
+pl/jarvis/models/ModelDiscoveryTest.class
+pl/jarvis/core/JarvisCoreIntegrationTest$2.class

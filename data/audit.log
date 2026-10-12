@@ -1,0 +1,437 @@
+[2026-09-11T16:24:45.281924111Z] [USER] Sprawdź CPU i RAM systemu
+[2026-09-11T16:24:45.284067427Z] [AGENT ROUTER] system
+[2026-09-11T16:24:45.345703280Z] [MODEL ROUTER] llama3.2:3b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (21081 MB) i VRAM (0 MB).
+[2026-09-11T16:24:45.362089717Z] [RESULT] Task 8ab668af-bb60-478d-9f99-e54ce75d41a8 completed
+[2026-09-11T16:27:27.972906375Z] [USER] Sprawdź RAM systemu
+[2026-09-11T16:27:27.975003708Z] [AGENT ROUTER] system
+[2026-09-11T16:27:27.994169333Z] [MODEL ROUTER] llama3.2:3b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (21151 MB) i VRAM (0 MB).
+[2026-09-11T16:27:28.012484616Z] [RESULT] Task 6005554a-6fc9-49c2-9eaf-f303a3d225e1 completed
+[2026-09-18T08:13:19.211058197Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T08:13:19.213094996Z] [AGENT ROUTER] system
+[2026-09-18T08:13:19.273553504Z] [MODEL ROUTER] llama3.2:3b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24076 MB) i VRAM (0 MB).
+[2026-09-18T08:13:19.288455551Z] [RESULT] Task b8b97b18-04e4-4593-a7b3-348367f7f6e7 completed
+[2026-09-18T08:13:39.369583143Z] [USER] Powiedz coś o sobie
+[2026-09-18T08:13:39.369999429Z] [AGENT ROUTER] general
+[2026-09-18T08:13:39.375899436Z] [MODEL ROUTER] qwen2.5-coder:7b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24056 MB) i VRAM (0 MB).
+[2026-09-18T08:13:39.443432553Z] [RESULT] Task c4b45155-ea60-4f92-9e93-3f0d63c7c8f8 completed
+[2026-09-18T08:15:02.496949366Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T08:15:02.497225372Z] [AGENT ROUTER] system
+[2026-09-18T08:15:02.503173110Z] [MODEL ROUTER] llama3.2:3b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23812 MB) i VRAM (0 MB).
+[2026-09-18T08:15:02.513995156Z] [RESULT] Task 26c7771d-74cd-4eb9-b65b-f3cd3a89c5b2 completed
+[2026-09-18T08:15:07.170030420Z] [USER] Jaka jest stolica Polski
+[2026-09-18T08:15:07.170299743Z] [AGENT ROUTER] general
+[2026-09-18T08:15:07.175792092Z] [MODEL ROUTER] qwen2.5-coder:7b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23808 MB) i VRAM (0 MB).
+[2026-09-18T08:15:07.186122430Z] [RESULT] Task b61a5653-b899-4c2b-8ee7-e39331bcbe7b completed
+[2026-09-18T08:15:22.623207626Z] [USER] Jaka jest stolica Polski
+[2026-09-18T08:15:22.623543733Z] [AGENT ROUTER] general
+[2026-09-18T08:15:22.629258237Z] [MODEL ROUTER] qwen2.5-coder:7b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23834 MB) i VRAM (0 MB).
+[2026-09-18T08:15:22.639095726Z] [RESULT] Task ae131c68-b3ab-4838-a506-3b320248833b completed
+[2026-09-18T08:16:59.158775283Z] [USER] Jaka jest stolica Polski
+[2026-09-18T08:16:59.159085552Z] [AGENT ROUTER] general
+[2026-09-18T08:16:59.165293889Z] [MODEL ROUTER] qwen2.5-coder:7b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (12791 MB) i VRAM (0 MB).
+[2026-09-18T08:16:59.175149815Z] [RESULT] Task dfc0ff9c-7fa9-416e-9a90-4dfcf5ec6b3e completed
+[2026-09-18T08:25:53.162458284Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T08:25:53.162883468Z] [AGENT ROUTER] system
+[2026-09-18T08:25:53.168252555Z] [MODEL ROUTER] llama3.2:3b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (12608 MB) i VRAM (0 MB).
+[2026-09-18T08:25:53.178159658Z] [RESULT] Task 418c0be7-fb32-4fed-9422-7f2629b14353 completed
+[2026-09-18T08:25:53.185687607Z] [USER] Jaka jest stolica Polski
+[2026-09-18T08:25:53.185979562Z] [AGENT ROUTER] general
+[2026-09-18T08:25:53.192373003Z] [MODEL ROUTER] qwen2.5-coder:7b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (12607 MB) i VRAM (0 MB).
+[2026-09-18T08:25:53.201259089Z] [RESULT] Task 883a4752-e60b-44fd-9704-26a0af8a11b3 completed
+[2026-09-18T08:28:32.522658693Z] [USER] Jaka jest stolica Polski
+[2026-09-18T08:28:32.524868610Z] [AGENT ROUTER] general
+[2026-09-18T08:28:32.543162572Z] [MODEL ROUTER] fallback-general spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (12611 MB) i VRAM (0 MB).
+[2026-09-18T08:28:32.567163742Z] [RESULT] Task f919e3d2-cdf2-4b3e-8740-b5375d9e82ff completed
+[2026-09-18T08:28:32.575524825Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T08:28:32.575976048Z] [AGENT ROUTER] system
+[2026-09-18T08:28:32.591670465Z] [RESULT] Task 775fdecc-ce87-4a83-a652-175b98dc364a completed
+[2026-09-18T08:44:49.545888044Z] [USER] Powiedz coś o sobie
+[2026-09-18T08:44:49.547678448Z] [AGENT ROUTER] general
+[2026-09-18T08:44:49.564331385Z] [MODEL ROUTER] fallback-general spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (12549 MB) i VRAM (0 MB).
+[2026-09-18T08:44:49.584605015Z] [RESULT] Task da16e4c7-85a2-496f-97b4-e969ee1126df completed
+[2026-09-18T08:59:29.227542471Z] [USER] Powiedz coś o sobie
+[2026-09-18T08:59:29.229294282Z] [AGENT ROUTER] general
+[2026-09-18T08:59:29.245814363Z] [MODEL ROUTER] fallback-general spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (12695 MB) i VRAM (0 MB).
+[2026-09-18T08:59:29.263368545Z] [RESULT] Task b79566fb-baac-4705-9eb4-1fc6d8ca8363 completed
+[2026-09-18T14:09:19.886113571Z] [USER] Jaka jest stolica Polski
+[2026-09-18T14:09:19.888620908Z] [AGENT ROUTER] general
+[2026-09-18T14:09:19.910923537Z] [MODEL ROUTER] fallback-general spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24519 MB) i VRAM (0 MB).
+[2026-09-18T14:09:19.931421681Z] [RESULT] Task d4fc3f11-b797-4e94-9f3d-19295e6162f5 completed
+[2026-09-18T14:09:19.939386776Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T14:09:19.939704213Z] [AGENT ROUTER] system
+[2026-09-18T14:09:19.954888921Z] [RESULT] Task 52ede180-44fa-4f25-84b1-776c02ddb7f7 completed
+[2026-09-18T14:13:15.502874048Z] [USER] Jaka jest stolica Polski
+[2026-09-18T14:13:15.505056171Z] [AGENT ROUTER] general
+[2026-09-18T14:13:15.520283829Z] [MODEL ROUTER] my-coder:latest spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24371 MB) i VRAM (0 MB).
+[2026-09-18T14:14:10.103918668Z] [RESULT] Task 5ff80080-3772-4fd0-86eb-11a416f9ddef completed
+[2026-09-18T14:20:06.492384118Z] [USER] Jaka jest stolica Polski
+[2026-09-18T14:20:06.494099681Z] [AGENT ROUTER] general
+[2026-09-18T14:20:06.519303042Z] [RESULT] Task 4234deff-c6e7-478e-8c51-a3fb8368b1dd completed
+[2026-09-18T14:25:19.877348793Z] [USER] Jaka jest stolica Polski
+[2026-09-18T14:25:19.878833465Z] [AGENT ROUTER] general
+[2026-09-18T14:25:19.901982793Z] [RESULT] Task baeb349b-780c-4c38-9b9b-ac6345dda5fc completed
+[2026-09-18T16:29:05.651495780Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T16:29:05.653171598Z] [AGENT ROUTER] system
+[2026-09-18T16:29:05.695914371Z] [RESULT] Task 470fa3da-50c8-49cd-b1b8-40b085f72536 completed
+[2026-09-18T16:29:38.624860541Z] [USER] Jaka jest stolica Polski? Odpowiedz jednym zdaniem.
+[2026-09-18T16:29:38.625132610Z] [AGENT ROUTER] general
+[2026-09-18T16:29:38.651456528Z] [MODEL ROUTER] qwen3:8b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (18167 MB) i VRAM (7416 MB).
+[2026-09-18T16:29:43.298194386Z] [RESULT] Task 5aaef372-a6b4-4739-88f7-3a5e14b7a99d completed
+[2026-09-18T16:30:19.947209320Z] [USER] Napisz w Pythonie krótka funkcje dodajaca dwie liczby.
+[2026-09-18T16:30:19.947562942Z] [AGENT ROUTER] coding
+[2026-09-18T16:30:19.974094111Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17851 MB) i VRAM (1948 MB).
+[2026-09-18T16:30:21.409761573Z] [RESULT] Task c8196530-f926-4788-8338-c595e587c75d completed
+[2026-09-18T16:35:21.162377173Z] [USER] Sprawdź zużycie RAM i system
+[2026-09-18T16:35:21.162728157Z] [AGENT ROUTER] system
+[2026-09-18T16:35:21.248775320Z] [RESULT] Task 72024301-9a38-4992-947c-9e813c947c4e completed
+[2026-09-18T16:36:03.718380489Z] [USER] Jaka jest stolica polski
+[2026-09-18T16:36:03.718688193Z] [AGENT ROUTER] general
+[2026-09-18T16:36:03.748095080Z] [MODEL ROUTER] qwen3:8b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (18450 MB) i VRAM (7302 MB).
+[2026-09-18T16:36:08.324247177Z] [RESULT] Task 144c2f04-3148-4e80-a790-3f58b9f7cf0c completed
+[2026-09-18T16:36:25.673491288Z] [USER] Opowiedz mi o sobie
+[2026-09-18T16:36:25.673790536Z] [AGENT ROUTER] general
+[2026-09-18T16:36:25.698389670Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17891 MB) i VRAM (1844 MB).
+[2026-09-18T16:36:26.615170912Z] [RESULT] Task ffef09be-07a4-45b5-b7c0-71b652e05c25 completed
+[2026-09-18T16:36:44.724130756Z] [USER] Opowiedz mi o sobie. Kim jesteś, jak się nazywasz
+[2026-09-18T16:36:44.724391102Z] [AGENT ROUTER] general
+[2026-09-18T16:36:44.749246796Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17643 MB) i VRAM (1250 MB).
+[2026-09-18T16:36:44.799622854Z] [RESULT] Task 23c51667-6f5e-4423-9e44-a5b6102eba12 completed
+[2026-09-18T16:37:05.745958762Z] [USER] Kto jest twoim autorem?
+[2026-09-18T16:37:05.746269012Z] [AGENT ROUTER] general
+[2026-09-18T16:37:05.774676868Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17735 MB) i VRAM (1250 MB).
+[2026-09-18T16:37:05.866843310Z] [RESULT] Task 4ee2b0bc-82ef-4ab2-a31b-9afabbda9631 completed
+[2026-09-18T16:37:15.392966866Z] [USER] Kto jest twoim autorem?
+[2026-09-18T16:37:15.393250275Z] [AGENT ROUTER] general
+[2026-09-18T16:37:15.415619592Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17741 MB) i VRAM (1250 MB).
+[2026-09-18T16:37:15.446718609Z] [RESULT] Task 3d687203-552b-459c-af60-b97ed7e7defa completed
+[2026-09-18T16:37:48.818730191Z] [USER] Jakie jest najdłuzsze polskie słowo
+[2026-09-18T16:37:48.819060468Z] [AGENT ROUTER] general
+[2026-09-18T16:37:48.854975645Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17644 MB) i VRAM (1266 MB).
+[2026-09-18T16:37:48.917127433Z] [RESULT] Task 27d8d961-3cfa-43d9-b146-61a740d5ac92 completed
+[2026-09-18T16:38:11.131409887Z] [USER] Jakie było moje ostatnie pytanie
+[2026-09-18T16:38:11.131710468Z] [AGENT ROUTER] general
+[2026-09-18T16:38:11.156927933Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17737 MB) i VRAM (1264 MB).
+[2026-09-18T16:38:11.223241523Z] [RESULT] Task 497f023c-e2af-42a4-a572-26841de1acb8 completed
+[2026-09-18T17:24:43.782088722Z] [USER] Siedem amul
+[2026-09-18T17:24:43.783585549Z] [AGENT ROUTER] general
+[2026-09-18T17:24:43.813620109Z] [MODEL ROUTER] qwen3:8b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (14179 MB) i VRAM (7226 MB).
+[2026-09-18T17:24:50.263891543Z] [RESULT] Task a98d999b-6d56-47cc-a977-bc5d56fce9a9 completed
+[2026-09-18T17:25:08.145909743Z] [USER] Nie, nie trzeba. Dziu0119ki.
+[2026-09-18T17:25:08.146246361Z] [AGENT ROUTER] general
+[2026-09-18T17:25:08.172661170Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (13859 MB) i VRAM (1758 MB).
+[2026-09-18T17:25:09.319239711Z] [RESULT] Task 98027bf4-9049-4572-ba2a-8ce63b02a9ad completed
+[2026-09-18T17:25:22.962456567Z] [USER] Co to dziau0142o?
+[2026-09-18T17:25:22.962810008Z] [AGENT ROUTER] general
+[2026-09-18T17:25:22.985124616Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (13270 MB) i VRAM (1165 MB).
+[2026-09-18T17:25:23.262459357Z] [RESULT] Task 4e6da3f7-1fd0-462d-a155-4cbc6c90e0ab completed
+[2026-09-19T08:35:49.363963678Z] [USER] Jaka jest dzisiaj pogoda?
+[2026-09-19T08:35:49.365507935Z] [AGENT ROUTER] general
+[2026-09-19T08:35:49.401028089Z] [MODEL ROUTER] qwen3:8b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (25957 MB) i VRAM (7450 MB).
+[2026-09-19T08:36:00.388108960Z] [RESULT] Task 6dbf310d-2902-4dc4-8073-9929156529ab completed
+[2026-09-19T08:36:26.386585275Z] [USER] Tak, sprawdu017a pogodu0119 w Ornontowicach.
+[2026-09-19T08:36:26.386913901Z] [AGENT ROUTER] general
+[2026-09-19T08:36:26.418711091Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (20427 MB) i VRAM (1998 MB).
+[2026-09-19T08:36:27.648410206Z] [RESULT] Task 41070ddb-43e9-41ee-b7f3-4bc3f0e7e308 completed
+[2026-09-19T08:36:43.932682293Z] [USER] Sprau017a, sprawdu017a pogodu0119 w Ornontowicach.
+[2026-09-19T08:36:43.933005809Z] [AGENT ROUTER] general
+[2026-09-19T08:36:43.956955431Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19697 MB) i VRAM (1405 MB).
+[2026-09-19T08:36:44.001138681Z] [RESULT] Task 6afe879e-1c30-45a7-baf0-86300c138a03 completed
+[2026-09-19T08:36:56.978417874Z] [USER] jaka jest pogoda w Ornultowicach?
+[2026-09-19T08:36:56.978699702Z] [AGENT ROUTER] general
+[2026-09-19T08:36:57.000849335Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19617 MB) i VRAM (1403 MB).
+[2026-09-19T08:36:57.090911085Z] [RESULT] Task d6a31889-9daf-47fd-8a18-5e34fea8da91 completed
+[2026-09-19T08:37:12.707548465Z] [USER] jakiego modelu teraz uu017cywasz
+[2026-09-19T08:37:12.707849337Z] [AGENT ROUTER] general
+[2026-09-19T08:37:12.731798973Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19685 MB) i VRAM (1403 MB).
+[2026-09-19T08:37:12.836078605Z] [RESULT] Task 3d4e4da7-cda0-4e04-8581-0e9db218b651 completed
+[2026-09-19T08:37:32.494723143Z] [USER] Powiedzmy cou015b o sobie.
+[2026-09-19T08:37:32.495030581Z] [AGENT ROUTER] general
+[2026-09-19T08:37:32.520300926Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19691 MB) i VRAM (1403 MB).
+[2026-09-19T08:37:32.615444967Z] [RESULT] Task 63c98a56-780b-452b-b275-906e77aa14f5 completed
+[2026-09-19T08:37:45.155776037Z] [USER] Ty powiedz mi cou015b o sobie
+[2026-09-19T08:37:45.156062512Z] [AGENT ROUTER] general
+[2026-09-19T08:37:45.177473424Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19702 MB) i VRAM (1403 MB).
+[2026-09-19T08:37:45.224915244Z] [RESULT] Task ec7d38b0-3406-4c56-affe-bc90012cfd68 completed
+[2026-09-19T08:38:02.778743813Z] [USER] Koniec na dzisiaj. Wyu0142u0105cz siu0119.
+[2026-09-19T08:38:02.779100027Z] [AGENT ROUTER] general
+[2026-09-19T08:38:02.803618505Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19690 MB) i VRAM (1403 MB).
+[2026-09-19T08:38:02.838843939Z] [RESULT] Task c7b18455-6baf-4271-8a54-4eb5201c52e3 completed
+[2026-09-19T08:40:09.002018410Z] [USER] To do ciebie.
+[2026-09-19T08:40:09.002314061Z] [AGENT ROUTER] general
+[2026-09-19T08:40:09.034223740Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17308 MB) i VRAM (1314 MB).
+[2026-09-19T08:40:09.121120666Z] [RESULT] Task 25bb51f2-eceb-4952-9cd8-c4831a945213 completed
+[2026-09-19T08:40:28.977542003Z] [USER] I jaka jest specyfikacja mojego utera?
+[2026-09-19T08:40:28.977812288Z] [AGENT ROUTER] general
+[2026-09-19T08:40:29.003159473Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17234 MB) i VRAM (1315 MB).
+[2026-09-19T08:40:29.120943078Z] [RESULT] Task a07959e2-f67f-4849-a5fe-0527b45b6074 completed
+[2026-09-19T08:40:51.728859003Z] [USER] Jaka jest specytacja mnokomputer?
+[2026-09-19T08:40:51.729111716Z] [AGENT ROUTER] system
+[2026-09-19T08:40:51.776607653Z] [RESULT] Task d4b17628-9bdc-42ae-a61b-3ce7f27ce7a1 completed
+[2026-09-19T08:41:36.753541617Z] [USER] Czeu015bu0107!
+[2026-09-19T08:41:36.753905043Z] [AGENT ROUTER] general
+[2026-09-19T08:41:36.797714396Z] [MODEL ROUTER] qwen3:8b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (16594 MB) i VRAM (6783 MB).
+[2026-09-19T08:41:44.884772763Z] [RESULT] Task 09da4eac-ced8-4a03-8066-bbb5869b34fa completed
+[2026-09-19T08:42:09.923250420Z] [USER] masz dostu0119pnych pliku00f3w
+[2026-09-19T08:42:09.923605060Z] [AGENT ROUTER] general
+[2026-09-19T08:42:09.973777307Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (16502 MB) i VRAM (1913 MB).
+[2026-09-19T08:42:11.475077900Z] [RESULT] Task c1cff477-9015-4406-9ea7-94e34adf1835 completed
+[2026-09-19T08:42:30.776458623Z] [USER] Do jakich pliku00f3w juu017c dostu0119p?
+[2026-09-19T08:42:30.776713743Z] [AGENT ROUTER] general
+[2026-09-19T08:42:30.801839291Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (15972 MB) i VRAM (1320 MB).
+[2026-09-19T08:42:30.860889858Z] [RESULT] Task 921fe66e-7c0b-4e48-9acd-38754d47f554 completed
+[2026-09-19T08:53:21.429614512Z] [USER] przetestuj pamiec RAM
+[2026-09-19T08:53:42.112456337Z] [AGENT ROUTER] system (llm)
+[2026-09-19T08:53:42.188628968Z] [RESULT] Task 860b3ed7-0e94-401c-a39c-9163c5d63e55 completed
+[2026-09-19T08:55:57.483662303Z] [USER] Jaki jest test Turinga?
+[2026-09-19T08:56:01.257708065Z] [AGENT ROUTER] research (llm)
+[2026-09-19T08:56:01.285859625Z] [MODEL ROUTER] qwen2.5-coder:0.5b spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23169 MB) i VRAM (1018 MB).
+[2026-09-19T08:56:13.860657276Z] [RESULT] Task 61ef7017-7da7-4712-be22-e3877575fe82 completed
+[2026-09-19T08:57:47.224004365Z] [USER] Jaki jest test Turinga?
+[2026-09-19T08:57:47.563319872Z] [AGENT ROUTER] research (llm)
+[2026-09-19T08:57:47.592706239Z] [MODEL ROUTER] my-coder:latest spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (22236 MB) i VRAM (888 MB).
+[2026-09-19T08:59:41.015056583Z] [USER] Jaki jest test Turinga?
+[2026-09-19T08:59:41.395164832Z] [AGENT ROUTER] research (llm)
+[2026-09-19T08:59:41.423965925Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (22110 MB) i VRAM (883 MB).
+[2026-09-19T08:59:55.878359122Z] [RESULT] Task cf23fd56-fc50-4930-977b-64d5bfd697bd completed
+[2026-09-19T09:00:07.460988087Z] [USER] Bielsko-Biała krótko?
+[2026-09-19T09:00:29.027986901Z] [AGENT ROUTER] general (llm)
+[2026-09-19T09:00:29.065331678Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24835 MB) i VRAM (1146 MB).
+[2026-09-19T09:00:38.552974173Z] [RESULT] Task c2f8f9a7-c6be-4cd6-81eb-5ecde1686842 completed
+[2026-09-19T09:05:30.036630605Z] [USER] Cześć!
+[2026-09-19T09:05:41.803370525Z] [AGENT ROUTER] general (llm)
+[2026-09-19T09:05:41.833393950Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24098 MB) i VRAM (1091 MB).
+[2026-09-19T09:05:46.787546119Z] [RESULT] Task c32aa7e3-5dc1-4579-b058-ac9d83585167 completed
+[2026-09-19T09:06:02.657723973Z] [USER] Trzy test to ringa.
+[2026-09-19T09:06:13.400125777Z] [AGENT ROUTER] general (llm)
+[2026-09-19T09:06:13.430895015Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24910 MB) i VRAM (1136 MB).
+[2026-09-19T09:06:18.642686583Z] [RESULT] Task f89d6d51-126f-4eb6-ab06-b8acdc0ff3b5 completed
+[2026-09-19T09:08:34.949179430Z] [USER] To jest dziś kreba.
+[2026-09-19T09:08:45.022872729Z] [AGENT ROUTER] general (llm)
+[2026-09-19T09:08:45.048255627Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (25634 MB) i VRAM (999 MB).
+[2026-09-19T09:08:49.325653498Z] [RESULT] Task fe383ce0-a1d5-490b-853e-21be42db7c6a completed
+[2026-09-19T09:10:06.911825891Z] [USER] Pogoda w Orlątowicach.
+[2026-09-19T09:10:16.083174031Z] [AGENT ROUTER] general (llm)
+[2026-09-19T09:10:16.108910691Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (25650 MB) i VRAM (1091 MB).
+[2026-09-19T09:10:21.101403589Z] [RESULT] Task 9411c6df-1c2b-47b5-9f9d-4e60560ea398 completed
+[2026-09-19T16:54:47.402469499Z] [USER] Jaka jest stolica Polski?
+[2026-09-19T16:54:54.750046331Z] [AGENT ROUTER] general (keywords)
+[2026-09-19T16:54:54.779950965Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (26292 MB) i VRAM (1882 MB).
+[2026-09-19T16:55:03.023170951Z] [RESULT] Task 032dcb9a-5f92-42da-94f8-16873873e952 completed
+[2026-09-19T16:55:11.907402991Z] [USER] Ile rdzeni ma procesor?
+[2026-09-19T16:55:17.447924089Z] [AGENT ROUTER] system (keywords)
+[2026-09-19T16:55:17.483867968Z] [RESULT] Task 637baa77-82f2-4594-a595-5e1bd32255b9 completed
+[2026-09-19T16:57:50.254346940Z] [USER] Ile rdzeni ma procesor?
+[2026-09-19T16:57:50.456260017Z] [AGENT ROUTER] system (llm)
+[2026-09-19T16:57:50.498995357Z] [RESULT] Task f49290ca-59e2-4c7a-b488-942173a9d5c3 completed
+[2026-09-19T17:06:35.015594834Z] [USER] jaka jest pogoda w ornontowicach
+[2026-09-19T17:06:35.131772364Z] [AGENT ROUTER] general (llm)
+[2026-09-19T17:06:35.154318110Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (25254 MB) i VRAM (1817 MB).
+[2026-09-19T17:06:40.192142077Z] [RESULT] Task ef50e11e-bf8d-465d-ad72-f24ced7fe5b2 completed
+[2026-09-19T17:06:56.471474648Z] [USER] Pogoda w Ortowicach.
+[2026-09-19T17:07:00.535422854Z] [AGENT ROUTER] general (llm)
+[2026-09-19T17:07:00.556617838Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (25253 MB) i VRAM (1817 MB).
+[2026-09-19T17:07:05.567859508Z] [RESULT] Task 2542da4d-0bf8-498f-bf8c-eac513cb6763 completed
+[2026-09-19T17:07:35.645477943Z] [USER] RK specyfikacji jego sprzętu.
+[2026-09-19T17:07:40.114630060Z] [AGENT ROUTER] system (llm)
+[2026-09-19T17:07:40.144463141Z] [RESULT] Task a62a4a23-286a-4702-8502-96f2a0ef4afd completed
+[2026-09-19T17:08:57.693434394Z] [USER] Jakie zesze, a co nie są uruchomią.
+[2026-09-19T17:08:57.811963824Z] [AGENT ROUTER] general (llm)
+[2026-09-19T17:08:57.834056088Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (25111 MB) i VRAM (1826 MB).
+[2026-09-19T17:09:04.223009806Z] [RESULT] Task 00a9bdb7-db6a-4358-8d88-e45e8f121ff5 completed
+[2026-09-19T17:09:54.076793386Z] [USER] jakie procesy są aktualnie uruchomione
+[2026-09-19T17:09:58.564280150Z] [AGENT ROUTER] system (llm)
+[2026-09-19T17:09:58.593892956Z] [RESULT] Task 8c96cc09-ce45-4a70-b2b7-80c2d2cfc67f completed
+[2026-09-20T15:30:22.406703699Z] [USER] Cześć. Co oznacza po polsku underrated
+[2026-09-20T15:30:28.516976145Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:30:28.541522653Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (27565 MB) i VRAM (1820 MB).
+[2026-09-20T15:30:36.288644101Z] [RESULT] Task 1e7a44db-3870-4875-8d77-409e4f59b850 completed
+[2026-09-20T15:34:23.371279526Z] [USER] Jaką pogodę mamy w Polsce?
+[2026-09-20T15:34:27.467429402Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:34:27.492314809Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (27892 MB) i VRAM (1953 MB).
+[2026-09-20T15:34:31.992787602Z] [RESULT] Task d6f2c35d-ac18-4a24-b983-934d68e0183f completed
+[2026-09-20T15:35:18.813752796Z] [USER] Jarvis, czy lubisz placki?
+[2026-09-20T15:35:22.928240056Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:35:22.950150983Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (27588 MB) i VRAM (1963 MB).
+[2026-09-20T15:35:27.273171775Z] [RESULT] Task a7f6bf09-058b-4a85-a7b4-2299752e567d completed
+[2026-09-20T15:35:47.560405123Z] [USER] Dzięki za oglądanie!
+[2026-09-20T15:35:51.669118902Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:35:51.691498873Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (27852 MB) i VRAM (1963 MB).
+[2026-09-20T15:35:55.968518243Z] [RESULT] Task 6a88d3c7-6aff-40e1-a4f2-a325079cd300 completed
+[2026-09-20T15:36:35.788578600Z] [USER] Dlaczego nie lubisz piacków?
+[2026-09-20T15:36:39.856666105Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:36:39.877949141Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (27856 MB) i VRAM (1939 MB).
+[2026-09-20T15:36:44.320111450Z] [RESULT] Task a8e85625-0461-4b5d-918a-05b033e71399 completed
+[2026-09-20T15:37:23.525818813Z] [USER] Dlaczego placki są szkodliwe?
+[2026-09-20T15:37:27.661945084Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:37:27.683780279Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (27759 MB) i VRAM (1939 MB).
+[2026-09-20T15:37:39.106867420Z] [RESULT] Task ff13b040-c9e9-4488-8d0c-052e8cc6c4ed completed
+[2026-09-20T15:39:06.134824698Z] [USER] Masz dostęp do moich plików?
+[2026-09-20T15:39:10.216725679Z] [AGENT ROUTER] system (llm)
+[2026-09-20T15:39:10.306562669Z] [RESULT] Task 6def241b-328a-4371-b02f-7efcbae65908 completed
+[2026-09-20T15:39:42.677362274Z] [USER] W jakim folderze się znajdujesz?
+[2026-09-20T15:39:42.829477303Z] [AGENT ROUTER] system (llm)
+[2026-09-20T15:39:42.861016121Z] [RESULT] Task bba69a28-125e-40d5-999a-ce728e7e6c8f completed
+[2026-09-20T15:41:06.457606687Z] [USER] jestes gruby wienc placki sa dlaciebie niezdrowe bo gdy cos zjesz to sie zalamie lewa pułkula ziemi
+[2026-09-20T15:41:06.640680197Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:41:06.664005940Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (28992 MB) i VRAM (1944 MB).
+[2026-09-20T15:41:11.505004363Z] [RESULT] Task 9882e9d2-2e6e-4b37-ac7e-ac692ac95c51 completed
+[2026-09-20T15:41:25.837801298Z] [USER] wtf
+[2026-09-20T15:41:29.918720355Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:41:29.940143486Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (29005 MB) i VRAM (1946 MB).
+[2026-09-20T15:41:34.334305119Z] [RESULT] Task edde5bc6-cbfd-49d8-9a33-19dc8f2b66ab completed
+[2026-09-20T15:41:45.040695675Z] [USER] what the fuck
+[2026-09-20T15:41:49.093216434Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:41:49.114266998Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (28953 MB) i VRAM (1946 MB).
+[2026-09-20T15:41:53.525410471Z] [RESULT] Task e9ab84e0-2ff2-40f3-9588-05b15d3200b2 completed
+[2026-09-20T15:44:48.504542805Z] [USER] cześć
+[2026-09-20T15:44:52.610645909Z] [AGENT ROUTER] general (llm)
+[2026-09-20T15:44:52.635602241Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (29035 MB) i VRAM (1956 MB).
+[2026-09-20T15:44:56.955301155Z] [RESULT] Task a66fdde2-304b-4268-8ac1-3fa1dd1f7719 completed
+[2026-09-20T15:45:41.629857654Z] [USER] otwórz plik pom.xml w ~/AI-Projects/Jarvis i napisz mi za co on odpowaida
+[2026-09-20T15:45:45.716899151Z] [AGENT ROUTER] coding (llm)
+[2026-09-20T15:45:45.738057890Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (29017 MB) i VRAM (1952 MB).
+[2026-09-20T15:45:54.143174008Z] [RESULT] Task 6f503f8d-0f3c-48d2-84bf-554c6dd583f7 completed
+[2026-10-09T15:54:12.152032176Z] [USER] Siema
+[2026-10-09T15:54:19.278221325Z] [AGENT ROUTER] general (llm)
+[2026-10-09T15:54:19.303307463Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (28634 MB) i VRAM (1921 MB).
+[2026-10-09T15:54:40.897179570Z] [RESULT] Task 4de298c7-b539-4dd9-be62-c9b2c8fdd844 completed
+[2026-10-09T18:38:04.826151991Z] [USER] hejo
+[2026-10-09T18:38:11.039278404Z] [AGENT ROUTER] general (llm)
+[2026-10-09T18:38:11.063935607Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (20317 MB) i VRAM (1734 MB).
+[2026-10-09T18:38:19.010246481Z] [RESULT] Task b0932884-274f-4d24-8522-f12ac792acd3 completed
+[2026-10-09T18:38:46.202214116Z] [USER] ile ramu mam w komputerze?
+[2026-10-09T18:38:50.691741188Z] [AGENT ROUTER] system (llm)
+[2026-10-09T18:38:50.730343434Z] [RESULT] Task dd462d82-6a6e-4280-96f7-0319b0b7d854 completed
+[2026-10-09T18:42:17.711344386Z] [USER] ej dlaczego nazywasz się jak się nqazywasz?
+[2026-10-09T18:42:17.838539530Z] [AGENT ROUTER] general (llm)
+[2026-10-09T18:42:17.862520829Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (19999 MB) i VRAM (1771 MB).
+[2026-10-09T18:42:22.813901154Z] [RESULT] Task 1e006df3-56b5-4481-a680-1acd0c499840 completed
+[2026-10-09T18:49:16.085664170Z] [USER] aha dzięki
+[2026-10-09T18:49:16.268492260Z] [AGENT ROUTER] general (llm)
+[2026-10-09T18:49:16.291734213Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (20016 MB) i VRAM (1781 MB).
+[2026-10-09T18:49:20.844926372Z] [RESULT] Task 46912ef6-eac8-4534-983a-b191407bbf1d completed
+[2026-10-09T18:49:42.054823858Z] [USER] Ok. To powiedz czym jest java
+[2026-10-09T18:49:46.279726149Z] [AGENT ROUTER] general (llm)
+[2026-10-09T18:49:46.301565175Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (20111 MB) i VRAM (1792 MB).
+[2026-10-09T18:49:52.246768630Z] [RESULT] Task 456ca560-6ce6-424b-959b-eb0614d30267 completed
+[2026-10-09T19:32:49.570783147Z] [USER] Czym jest Java?
+[2026-10-09T19:32:55.722007569Z] [AGENT ROUTER] general (llm)
+[2026-10-09T19:32:55.747042378Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24396 MB) i VRAM (1801 MB).
+[2026-10-09T19:33:04.756208869Z] [RESULT] Task 907f82ca-24ab-46da-ab7d-c646cebd501e completed
+[2026-10-09T19:33:13.512633263Z] [USER] Czym jest Java?
+[2026-10-09T19:33:17.675903188Z] [AGENT ROUTER] general (llm)
+[2026-10-09T19:33:17.697069302Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24249 MB) i VRAM (1801 MB).
+[2026-10-09T19:33:23.133840579Z] [RESULT] Task 63eb236b-2f8d-4c34-9639-f49fec593f28 completed
+[2026-10-09T19:33:46.944775003Z] [USER] Napisz prosty plugin do minecraft
+[2026-10-09T19:33:51.125558625Z] [AGENT ROUTER] coding (llm)
+[2026-10-09T19:33:51.146988603Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24285 MB) i VRAM (1801 MB).
+[2026-10-09T19:34:03.030014118Z] [RESULT] Task ed6fb879-5cc4-455d-b882-6ca543b4dfcd completed
+[2026-10-09T19:42:54.128382996Z] [USER] Hejo
+[2026-10-09T19:42:58.391942198Z] [COORDINATOR] Answer generated directly
+[2026-10-09T19:42:58.404122687Z] [RESULT] Task cb5400da-c439-4760-b5d1-34f06b1d1c10 completed
+[2026-10-09T19:43:06.856740977Z] [USER] Czym jest java?
+[2026-10-09T19:43:07.606730167Z] [COORDINATOR] Answer generated directly
+[2026-10-09T19:43:07.614236052Z] [RESULT] Task 46669a75-b91f-4d6f-86e2-66cd2cce9f92 completed
+[2026-10-09T19:43:27.737256983Z] [USER] A możesz napisać mi prosty plugin do minecraft?
+[2026-10-09T19:43:27.906024388Z] [COORDINATOR] Delegating to coding
+[2026-10-09T19:43:27.931366733Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24065 MB) i VRAM (1648 MB).
+[2026-10-09T19:43:52.678291533Z] [USER] [A
+[2026-10-09T19:43:56.912965266Z] [COORDINATOR] Delegating to system
+[2026-10-09T19:43:56.993932080Z] [RESULT] Task 212c6694-d349-4861-b704-cb9e2e6128ba completed
+[2026-10-09T19:44:11.896549863Z] [USER] Napiszesz mi prosty plugin do minecraft?
+[2026-10-09T19:44:12.074987786Z] [COORDINATOR] Delegating to coding
+[2026-10-09T19:44:12.096742583Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24170 MB) i VRAM (1648 MB).
+[2026-10-09T19:51:35.958085586Z] [USER] czym jest java?
+[2026-10-09T19:51:41.095633121Z] [COORDINATOR] Answer generated directly
+[2026-10-09T19:51:41.163228436Z] [RESULT] Task b7e60ae3-0d4a-4bb3-82fc-5b77de7fee5b completed
+[2026-10-09T19:53:03.623088699Z] [USER] napisz mi plugin do minecraft
+[2026-10-09T19:53:03.808602793Z] [COORDINATOR] Delegating to coding
+[2026-10-09T19:53:03.834896920Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24166 MB) i VRAM (1661 MB).
+[2026-10-09T19:53:09.278690766Z] [RESULT] Task 82732358-a0b0-4612-8f11-d08bcb088e09 completed
+[2026-10-09T19:53:35.342786520Z] [USER] Obojętnie. Użyj javy
+[2026-10-09T19:53:39.649373701Z] [COORDINATOR] Delegating to system
+[2026-10-09T19:53:39.681840797Z] [RESULT] Task 91813f13-6abd-4337-90c9-5c21009833f5 completed
+[2026-10-09T19:58:00.029317172Z] [USER] hejo. napisz plugin do minecraft
+[2026-10-09T19:58:00.212159834Z] [COORDINATOR] Delegating to coding
+[2026-10-09T19:58:00.235518985Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24133 MB) i VRAM (1696 MB).
+[2026-10-09T19:58:05.966255103Z] [RESULT] Task 21e148ed-12a4-4af6-88a3-5ec87c9ae979 completed
+[2026-10-09T19:58:34.073861001Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: hejo. napisz plugin do minecraft Jarvis: Hej! Czekam na Twoje pytania dotyczące napisania pluginu dla Minecraft. Czy masz na myśli pisanie pluginu w języku Java? Czy potrzebujesz pomocy w konkretnym aspekcie, takim jak tworzenie eventów, komend, lub interakcje z światem gry? Aktualna wiadomość użytkownika: ogolnie napisz jakis bo cie testuje teraz. użyj javy Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T19:58:38.451628623Z] [COORDINATOR] Delegating to coding
+[2026-10-09T19:58:38.473932478Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (24049 MB) i VRAM (1682 MB).
+[2026-10-09T19:58:46.781258210Z] [RESULT] Task 1755a45b-41d0-4b45-a19e-28c2cc01deb0 completed
+[2026-10-09T19:59:30.364780540Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: hejo. napisz plugin do minecraft Jarvis: Hej! Czekam na Twoje pytania dotyczące napisania pluginu dla Minecraft. Czy masz na myśli pisanie pluginu w języku Java? Czy potrzebujesz pomocy w konkretnym aspekcie, takim jak tworzenie eventów, komend, lub interakcje z światem gry? Użytkownik: ogolnie napisz jakis bo cie testuje teraz. użyj javy Jarvis: Hej! Dobrze, zrozumiałem. Czekam na Twoje pytania dotyczące napisania pluginu dla Minecraft w języku Java. Jeśli potrzebujesz pomocy w konkretnym aspekcie, takim jak tworzenie eventów, komend, lub interakcje z światem gry, chętnie Cię pomogę. Aby rozpocząć, potrzebuję kilku informacji dodatkowych: 1. Jakie dokładnie funkcje ma mieć Twój plugin? 2. Czy masz już jakiekolwiek doświadczenie w pisaniu pluginów Minecraft? 3. Czy potrzebujesz pomocy w konkretnym miejscu, np. w konfiguracji plików, tworzeniu komend, obsługiwaniu eventów itp.? Jak tylko otrzymam te informacje, będę mógł Ci bardziej precyzyjnie pomóc w napisaniu Twojego pluginu. Aktualna wiadomość użytkownika: napisz po prostu cokolwiek. może być jeden event. Wymysl cos Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T19:59:38.965603308Z] [COORDINATOR] Answer generated directly
+[2026-10-09T19:59:38.972339381Z] [RESULT] Task 3165f33e-ede5-4539-bf6d-148a4d34ec53 completed
+[2026-10-09T20:07:19.775913475Z] [USER] Napisz mi plugin do Minecrafta.
+[2026-10-09T20:07:20.140347435Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:07:20.165059610Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23921 MB) i VRAM (1740 MB).
+[2026-10-09T20:08:01.470322660Z] [USER] Napisz mi plugin do Minecrafta.
+[2026-10-09T20:08:06.137083696Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:08:06.164650516Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23614 MB) i VRAM (1730 MB).
+[2026-10-09T20:08:49.985318550Z] [USER] Napisz mi plugin do Minecraft.
+[2026-10-09T20:08:54.439820030Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:08:54.462721645Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23859 MB) i VRAM (1727 MB).
+[2026-10-09T20:10:13.994600522Z] [USER] Napisz mi plugin do minecraft
+[2026-10-09T20:10:18.289309114Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:10:18.314257521Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23803 MB) i VRAM (1760 MB).
+[2026-10-09T20:12:55.062374820Z] [USER] elo
+[2026-10-09T20:12:59.700843257Z] [COORDINATOR] Answer generated directly
+[2026-10-09T20:12:59.713543379Z] [RESULT] Task b2c5b7e7-6bbf-4086-921b-42490af76229 completed
+[2026-10-09T20:13:15.528104258Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: elo Jarvis: It seems like you might have intended to ask a question or request something. Could you please clarify what you need help with? Aktualna wiadomość użytkownika: Napisz mi plugin do miencraft Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T20:13:15.735464210Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:13:15.760830780Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23805 MB) i VRAM (1748 MB).
+[2026-10-09T20:13:24.245607567Z] [RESULT] Task 502bdcc3-7ab0-4067-8da2-eab5b2d85bbd completed
+[2026-10-09T20:42:40.199150143Z] [USER] Napisz prosty plugin do Minecrafta w Javie. Sam wybierz funkcję i utwórz kompletny projekt Maven z klasą główną oraz plugin.yml.
+[2026-10-09T20:42:44.530619868Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:42:44.567200586Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23295 MB) i VRAM (1679 MB).
+[2026-10-09T20:43:50.344943246Z] [USER] Napisz prosty plugin do Minecrafta w Javie. Sam wybierz funkcję i utwórz kompletny projekt Maven z klasą główną oraz plugin.yml.
+[2026-10-09T20:43:54.665131558Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:43:54.690346691Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23538 MB) i VRAM (1685 MB).
+[2026-10-09T20:46:30.280585320Z] [USER] Cześć
+[2026-10-09T20:46:34.649333106Z] [COORDINATOR] Answer generated directly
+[2026-10-09T20:46:34.675753777Z] [RESULT] Task 16eae617-f4e1-456d-8e01-051a0d8c1c8a completed
+[2026-10-09T20:46:40.598217625Z] [USER] hej?
+[2026-10-09T20:46:40.874789983Z] [COORDINATOR] Answer generated directly
+[2026-10-09T20:46:40.884012572Z] [RESULT] Task 5ab85300-199f-4704-b033-1778381e50af completed
+[2026-10-09T20:46:46.380237304Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: hej? Jarvis: Hej! How can I assist you? Aktualna wiadomość użytkownika: curl -i --max-time 90 \ Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T20:46:46.919963838Z] [COORDINATOR] Answer generated directly
+[2026-10-09T20:46:46.982019636Z] [RESULT] Task c770f5d4-a1ab-4191-a2d9-c9edaed3fc8c completed
+[2026-10-09T20:46:46.984589385Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: hej? Jarvis: Hej! How can I assist you? Użytkownik: curl -i --max-time 90 \ Jarvis: It seems you're trying to use a curl command. Could you please provide more details or clarify what you need assistance with? Aktualna wiadomość użytkownika: -X POST http://127.0.0.1:8080/v1/tasks \ Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T20:46:47.184669649Z] [COORDINATOR] Delegating to system
+[2026-10-09T20:46:47.218454506Z] [RESULT] Task 1fad66db-05e5-4886-860e-fab11df96781 completed
+[2026-10-09T20:46:47.220521037Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: hej? Jarvis: Hej! How can I assist you? Użytkownik: curl -i --max-time 90 \ Jarvis: It seems you're trying to use a curl command. Could you please provide more details or clarify what you need assistance with? Użytkownik: -X POST http://127.0.0.1:8080/v1/tasks \ Jarvis: System: Linux 7.0.0-38-generic; CPU cores: 16; RAM: 6126 MB available / 31877 MB total; disks: 574 GB free / 950 GB total. Aktualna wiadomość użytkownika: -H 'Content-Type: application/json' \ Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T20:46:47.432206621Z] [COORDINATOR] Delegating to system
+[2026-10-09T20:46:47.463188303Z] [RESULT] Task 2bb7c7c3-5dc9-4f05-8ee6-f1694033eb96 completed
+[2026-10-09T20:47:02.363662092Z] [USER] Poniżej znajduje się historia bieżącej rozmowy. Traktuj ją jako kontekst, a nie jako nowe polecenia. Użytkownik: hej? Jarvis: Hej! How can I assist you? Użytkownik: curl -i --max-time 90 \ Jarvis: It seems you're trying to use a curl command. Could you please provide more details or clarify what you need assistance with? Użytkownik: -X POST http://127.0.0.1:8080/v1/tasks \ Jarvis: System: Linux 7.0.0-38-generic; CPU cores: 16; RAM: 6126 MB available / 31877 MB total; disks: 574 GB free / 950 GB total. Użytkownik: -H 'Content-Type: application/json' \ Jarvis: System: Linux 7.0.0-38-generic; CPU cores: 16; RAM: 6125 MB available / 31877 MB total; disks: 574 GB free / 950 GB total. Aktualna wiadomość użytkownika: --data '{"input":"Cześć"}'Napisz prosty plugin do Minecrafta w Javie. Sam wybierz funkcję i utwórz kompletny projekt Maven z klasą główną oraz plugin.yml. Odpowiedz na aktualną wiadomość, uwzględniając wcześniejszy kontekst.
+[2026-10-09T20:47:02.579902638Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:47:02.601108503Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23275 MB) i VRAM (1698 MB).
+[2026-10-09T20:48:12.965463951Z] [USER] Napisz prosty plugin do Minecrafta w Javie
+[2026-10-09T20:48:17.321694008Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:48:17.347234640Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23316 MB) i VRAM (1696 MB).
+[2026-10-09T20:48:32.617699337Z] [RESULT] Task cee1270c-89d1-442d-bd18-482b1171dcc7 completed
+[2026-10-09T20:50:31.518428686Z] [USER] Napisz prosty plugin do Minecrafta w Javie
+[2026-10-09T20:50:35.894640538Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:50:35.920543205Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23370 MB) i VRAM (1708 MB).
+[2026-10-09T20:50:58.924407419Z] [USER] Napisz prosty plugin do Minecrafta w Javie
+[2026-10-09T20:51:03.246168890Z] [COORDINATOR] Delegating to coding
+[2026-10-09T20:51:03.268155588Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (23465 MB) i VRAM (1720 MB).
+[2026-10-11T09:16:20.131167544Z] [USER] Utwórz plugin Minecraft w Javie o nazwie JarvisTest. Zapisz kompletny projekt do workspace.
+[2026-10-11T09:16:26.368698612Z] [COORDINATOR] Delegating to coding
+[2026-10-11T09:16:26.392434250Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (18131 MB) i VRAM (1812 MB).
+[2026-10-11T09:18:12.965722032Z] [USER] Utwórz plugin Minecraft w Javie o nazwie JarvisTest. Zapisz kompletny projekt do workspace.
+[2026-10-11T09:18:17.235854063Z] [COORDINATOR] Delegating to coding
+[2026-10-11T09:18:17.259963962Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17979 MB) i VRAM (1809 MB).
+[2026-10-11T09:18:41.376342077Z] [USER] Cześć
+[2026-10-11T09:18:45.612277048Z] [COORDINATOR] Answer generated directly
+[2026-10-11T09:18:45.625456486Z] [RESULT] Task 1eecd718-271d-4945-9c79-0e6bef9a0bd2 completed
+[2026-10-11T09:19:12.962303635Z] [USER] Napisz prosty plugin do Minecrafta w Javie
+[2026-10-11T09:19:13.151974958Z] [COORDINATOR] Delegating to coding
+[2026-10-11T09:19:13.173946615Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (17947 MB) i VRAM (1799 MB).
+[2026-10-11T09:21:06.105477127Z] [USER] Wypisz w czacie klasę w javie wypisującą hello world
+[2026-10-11T09:21:10.882898825Z] [COORDINATOR] Answer generated directly
+[2026-10-11T09:21:10.890387235Z] [RESULT] Task e4baaacd-6871-46a9-9f1b-cb1825fc5010 completed
+[2026-10-11T09:21:47.534158173Z] [USER] Wypisz w czacie klasę w javie wypisującą hello world. Użyj agenta coding agent
+[2026-10-11T09:21:47.718310530Z] [COORDINATOR] Delegating to coding
+[2026-10-11T09:21:47.741055044Z] [MODEL ROUTER] qwen2.5-coder:7b-instruct-q6_K spełnia wymagania zadania oraz mieści się w dostępnej pamięci RAM (18121 MB) i VRAM (1814 MB).
+[2026-10-11T09:21:53.477392390Z] [RECOVERY] Retrying task 23aabddd-cbf3-4041-943c-dd6f294db41d
+[2026-10-11T09:21:54.516277286Z] [ERROR] Task 23aabddd-cbf3-4041-943c-dd6f294db41d: Generated path is outside the plugin project

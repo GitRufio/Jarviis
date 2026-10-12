@@ -1,0 +1,7 @@
+# Silniki głosowe Jarvisa (lokalne, offline). Instalacja: python3 -m venv voice/.venv && voice/.venv/bin/pip install -r voice/requirements.txt
+faster-whisper>=1.0   # STT (polski), CPU int8
+sounddevice>=0.5      # mikrofon (PortAudio)
+scipy>=1.10           # resampling 44100 -> 16000 Hz
+openwakeword>=0.4     # wykrywanie "hey Jarvis" (model w pakiecie)
+piper-tts>=1.8        # TTS (głosy w voice/models/)
+requests>=2.30        # rozmowa z API Jarvisa
